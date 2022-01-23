@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom'
 
 // component files
-import TodoContainer from './components/TodoContainer';
+import TodoContainer from './components/functionBased/TodoContainer';
 
 // stylesheet
 import './App.css';
